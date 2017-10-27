@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-import readline, sys
+import sys
 
 out_of = int(sys.argv[1])
 while 1:
